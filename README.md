@@ -23,10 +23,10 @@ You can follow me on:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CamDavidsonPilon&repo=Probabilistic-Programming-and-Bayesian-Methods-for-Hackers&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/deepinsight/insightface">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<!--<a href="https://github.com/deepinsight/insightface">
+  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepinsight&repo=insightfaceh&theme=tokyonight" />
-</a>    
+</a>-->
 
 <a href="https://github.com/tensorflow/probability">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

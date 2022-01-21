@@ -15,13 +15,13 @@ You can follow me on:
 
 
 <!--<a href="https://github.com/dpkp/kafka-python">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dpkp&repo=kafka-python&theme=tokyonight" />
-</a>    
+</a>    -->
 <a href="https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CamDavidsonPilon&repo=Probabilistic-Programming-and-Bayesian-Methods-for-Hackers&theme=tokyonight" />
-</a>-->
+</a>
 
 <!--<a href="https://github.com/deepinsight/insightface">
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 

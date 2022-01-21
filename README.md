@@ -14,14 +14,14 @@ You can follow me on:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-mcateer&hide=html&layout=compact&theme=dracula)](https://github.com/matthew-mcateer/github-readme-stats)
 
 
-<a href="https://github.com/dpkp/kafka-python">
+<!--<a href="https://github.com/dpkp/kafka-python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dpkp&repo=kafka-python&theme=tokyonight" />
 </a>    
 <a href="https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CamDavidsonPilon&repo=Probabilistic-Programming-and-Bayesian-Methods-for-Hackers&theme=tokyonight" />
-</a>
+</a>-->
 
 <!--<a href="https://github.com/deepinsight/insightface">
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 

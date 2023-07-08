@@ -20,7 +20,7 @@ You can follow me on:
 
 <a href="https://github.com/matthew-mcateer/rescuerepo">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matthew-mcateerw&repo=rescuerepo&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matthew-mcateer&repo=rescuerepo&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers">

@@ -7,14 +7,12 @@ You can follow me on:
 - [Twitter](https://twitter.com/matthewmcateer0) 🐦
 - [my blog](https://matthewmcateer.me/) 💻 
 
-#### GitHub Stats
+#### GitHub Stats / Top Languages
 
 <a href="https://github.com/matthew-mcateer/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=matthew-mcateer&show_icons=true&theme=dracula" />
 </a>
-
-#### Top Languages
 
 <a href="https://github.com/matthew-mcateer/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

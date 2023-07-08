@@ -7,11 +7,21 @@ You can follow me on:
 - [Twitter](https://twitter.com/matthewmcateer0) 🐦
 - [my blog](https://matthewmcateer.me/) 💻 
 
+#### GitHub Stats
 
-![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=matthew-mcateer&show_icons=true&theme=dracula)
+<a href="https://github.com/matthew-mcateer/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matthew-mcateer&show_icons=true&theme=dracula" />
+</a>
 
+#### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-mcateer&hide=html&layout=compact&theme=dracula)](https://github.com/matthew-mcateer/github-readme-stats)
+<a href="https://github.com/matthew-mcateer/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-mcateer&hide=html&layout=compact&theme=dracula" />
+</a>
+
+#### My top open-source repos
 
 <a href="https://github.com/matthew-mcateer/practicing_trustworthy_machine_learning">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -22,6 +32,8 @@ You can follow me on:
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matthew-mcateer&repo=rescuerepo&theme=tokyonight" />
 </a>
+
+#### Top repos I've contributed to
 
 <a href="https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

@@ -1,11 +1,25 @@
+<p align="center">
+  <a href="https://github.com/matthew-mcateer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=923DFF&center=true&width=435&lines=Matthew+McAteer" alt="Hadj Hadji" /></a>
+</p>
+
+<p align="center">
+  <a href="https://matthewmcateer.me">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=FF923D&center=true&width=435&lines=Machine+Learning+Scientist;Computer+Vision+%7C+Natural+Language+Processing;AI+Interpretability+%7C+Reinforcement+Learning;AI+Safety+%7C+Privacy+preserving+ML" /></a>
+</p>
+
 ### Hi there 👋
 
-My name is Matthew, I'm a Machine Learning Engineer. I like building things, writing, and understanding how things work.
+My name is Matthew, I'm a Machine Learning Engineer. I like building, writing, and understanding how things work.
 
 You can follow me on:
 
 - [Twitter](https://twitter.com/matthewmcateer0) 🐦
-- [my blog](https://matthewmcateer.me/) 💻 
+- [my blog](https://matthewmcateer.me/) 💻
+- [Here on GitHub](https://github.com/matthew-mcateer) 🐙
+
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elhadjx&label=Profile%20views&color=ff0000&style=flat" alt="elhadjx" /> </p>
 
 #### GitHub Stats / Top Languages
 
@@ -57,3 +71,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matthew-mcateer&theme=dark" alt="matthew-mcateer" /></p>
+

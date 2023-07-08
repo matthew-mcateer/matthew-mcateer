@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/matthew-mcateer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=923DFF&center=true&width=435&lines=Matthew+McAteer" alt="Hadj Hadji" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=923DFF&center=true&width=635&lines=Matthew+McAteer" alt="Matthew McAteer" /></a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ You can follow me on:
 - [Here on GitHub](https://github.com/matthew-mcateer) 🐙
 
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elhadjx&label=Profile%20views&color=ff0000&style=flat" alt="elhadjx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthew-mcateer&label=Profile%20views&color=923dff&style=flat" alt="matthew-mcateer" /> </p>
 
 #### GitHub Stats / Top Languages
 

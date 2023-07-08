@@ -18,7 +18,7 @@ You can follow me on:
 
 <a href="https://github.com/matthew-mcateer/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-mcateer&hide=html,jupyternotebook&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-mcateer&hide=html,css,jupyter%20notebook&layout=compact&theme=dracula" />
 </a>
 
 #### My top open-source repos

@@ -162,7 +162,7 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
     <img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2018/05/eyecatch_sagemaker.png" alt="Sagemaker" width="40" height="40" />
   </a>
   <a href="https://aws.amazon.com/bedrock/titan/" target="_blank" rel="noreferrer">
-    <img src="https://devnote.tech/wp-content/uploads/2022/07/sagemaker-icon.png[s](url)" alt="bedrock" width="40" height="40" />
+    <img src="https://devnote.tech/wp-content/uploads/2022/07/sagemaker-icon.png" alt="bedrock" width="40" height="40" />
   </a>
   <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1920px-Amazon_Lambda_architecture_logo.svg.png" alt="Lambda" width="40" height="40" />

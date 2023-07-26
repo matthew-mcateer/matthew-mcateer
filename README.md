@@ -256,7 +256,7 @@ Git, GitHub, GitLab, Docker, Kubernetes, Ansible, Terraform, Pulumi, GitLab, Jen
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Circleci-icon-logo.svg" alt="Circle-CI" width="40" height="40" />
   </a>
   <a href="https://wandb.ai/" target="_blank" rel="noreferrer">
-    <img src="https://assets.website-files.com/5ac6b7f2924c656f2b13a88c/61383ce48306e28cb95aa837_W%26B%20Logo%20Assets.png" alt="Weights-and-Biases" width="40" height="40" />
+    <img src="https://wandb.ai/logo.png" alt="Weights-and-Biases" width="40" height="40" />
   </a>
 </p>
 

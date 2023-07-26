@@ -99,10 +99,10 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="JAX" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo.svg" alt="JAX" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Scikit-Learn" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="Scikit-Learn" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" />
@@ -111,10 +111,7 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Langchain" width="40" height="40" />
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="LangchainJS" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="Langchain" width="40" height="40" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
@@ -135,7 +132,7 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Astro" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png" alt="Astro" width="40" height="40" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
@@ -144,7 +141,7 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Robotic Operating System (ROS)" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="Robotic Operating System (ROS)" width="40" height="40" />
   </a>
 </p>
 
@@ -213,7 +210,7 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
 
 <p>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Lambda Cloud" width="40" height="40" />
+    <img src="https://qwilr.com/wp-content/uploads/2021/02/lambda-logo-2-1-768x768.jpg" alt="Lambda Cloud" width="40" height="40" />
   </a>
 </p>
 

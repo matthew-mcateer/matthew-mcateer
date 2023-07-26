@@ -190,33 +190,19 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
   </a>
 </p>
 
-**Microsoft Azure**
+O
+**Other Deployments**: (Microsoft Azure, Google Cloud Platform, Lambda Cloud, Heroku)
 
 <p>
   <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303372/azure-1-logo.svg" alt="Microsoft Azure" width="40" height="40" />
   </a>
-</p>
-
-**Google Cloud Platform**
-
-<p>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
   </a>
-</p>
-
-**Lambda Cloud**
-
-<p>
   <a href="https://lambdalabs.com/service/gpu-cloud" target="_blank" rel="noreferrer">
     <img src="https://qwilr.com/wp-content/uploads/2021/02/lambda-logo-2-1-768x768.jpg" alt="Lambda Cloud" width="40" height="40" />
   </a>
-</p>
-
-**Heroku**
-
-<p>
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
   </a>

@@ -153,8 +153,6 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
   </a>
-</p>
-<p>
   <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/1920px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png" alt="EC2" width="40" height="40" />
   </a>
@@ -189,8 +187,7 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
     <img src="https://www.scalefactory.com/blog/2019/06/07/5-reasons-to-use-aws-fargate/fargate_logo.png" alt="Fargate" width="40" height="40" />
   </a>
 </p>
-
-O
+[s](url)
 **Other Deployments**: (Microsoft Azure, Google Cloud Platform, Lambda Cloud, Heroku)
 
 <p>

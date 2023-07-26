@@ -194,7 +194,7 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
 
 <p>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Microsoft Azure" width="40" height="40" />
+    <img src="https://www.svgrepo.com/show/303372/azure-1-logo.svg" alt="Microsoft Azure" width="40" height="40" />
   </a>
 </p>
 
@@ -263,17 +263,17 @@ Git, GitHub, GitLab, Docker, Kubernetes, Ansible, Terraform, Pulumi, GitLab, Jen
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Pulumi" width="40" height="40" />
+  <a href="https://www.pulumi.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.pulumi.com/logos/brand/logo-on-white.svg" alt="Pulumi" width="60" height="30" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-original.svg" alt="Circle-CI" width="40" height="40" />
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/8/82/Circleci-icon-logo.svg" alt="Circle-CI" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Weights-and-Biases" width="40" height="40" />
+  <a href="https://wandb.ai/" target="_blank" rel="noreferrer">
+    <img src="https://assets.website-files.com/5ac6b7f2924c656f2b13a88c/61383ce48306e28cb95aa837_W%26B%20Logo%20Assets.png" alt="Weights-and-Biases" width="40" height="40" />
   </a>
 </p>
 
@@ -352,7 +352,7 @@ HuggingFace, OpenAI, Anthropic, Cohere, Algolia, AI21, GraphQL, Airtable, Zapier
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://clipground.com/images/zapier-logo-3.png" alt="Zapier" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://latch.bio/" target="_blank" rel="noreferrer">
     <img src="https://www.citybiz.co/wp-content/uploads/2022/06/LatchBio.jpeg" alt="LatchBio" width="40" height="40" />
   </a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">

@@ -187,7 +187,7 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
     <img src="https://www.scalefactory.com/blog/2019/06/07/5-reasons-to-use-aws-fargate/fargate_logo.png" alt="Fargate" width="40" height="40" />
   </a>
 </p>
-[s](url)
+
 **Other Deployments**: (Microsoft Azure, Google Cloud Platform, Lambda Cloud, Heroku)
 
 <p>

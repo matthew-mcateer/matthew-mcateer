@@ -148,45 +148,45 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
 
 ### Platforms
 
-**Amazon Web Services** (EC2, Sagemaker, Titan, Lambda, DynamoDB, SQS, Kinesis, S3, API Gateway, ECS, Fargate)
+**Amazon Web Services** (EC2, Sagemaker, Bedrock, Lambda, DynamoDB, SQS, Kinesis, S3, API Gateway, ECS, Fargate)
 <p>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
   </a>
 </p>
 <p>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="EC2" width="40" height="40" />
+  <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/1920px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png" alt="EC2" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Sagemaker" width="40" height="40" />
+  <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2018/05/eyecatch_sagemaker.png" alt="Sagemaker" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Titan" width="40" height="40" />
+  <a href="https://aws.amazon.com/bedrock/titan/" target="_blank" rel="noreferrer">
+    <img src="https://av-eks-blogoptimized.s3.amazonaws.com/Amazon_Bedrock-thumbnail_webp-600x300.png" alt="bedrock-Titan" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Lambda" width="40" height="40" />
+  <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1920px-Amazon_Lambda_architecture_logo.svg.png" alt="Lambda" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="DynamoDB" width="40" height="40" />
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="DynamoDB" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="SQS" width="40" height="40" />
+  <a href="https://aws.amazon.com/sqs/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/AWS_Simple_Icons_Messaging_Amazon_SQS.svg/1920px-AWS_Simple_Icons_Messaging_Amazon_SQS.svg.png" alt="SQS" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Kinesis" width="40" height="40" />
+  <a href="https://aws.amazon.com/kinesis/" target="_blank" rel="noreferrer">
+    <img src="https://iconape.com/wp-content/files/ig/350714/png/aws-kinesis-logo.png" alt="Kinesis" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="S3" width="40" height="40" />
+  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1920px-Amazon-S3-Logo.svg.png" alt="S3" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="API Gateway" width="40" height="40" />
+  <a href="https://aws.amazon.com/api-gateway/" target="_blank" rel="noreferrer">
+    <img src="https://www.kindpng.com/picc/m/708-7089588_aws-api-gateway-logo-hd-png-download.png" alt="API Gateway" width="80" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="ECS" width="40" height="40" />
+  <a href="https://aws.amazon.com/ecs/" target="_blank" rel="noreferrer">
+    <img src="https://www.sumologic.com/wp-content/uploads/aws-ec2-container-service.png" alt="ECS" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Fargate" width="40" height="40" />
+  <a href="https://aws.amazon.com/blogs/aws/aws-fargate/" target="_blank" rel="noreferrer">
+    <img src="https://www.scalefactory.com/blog/2019/06/07/5-reasons-to-use-aws-fargate/fargate_logo.png" alt="Fargate" width="40" height="40" />
   </a>
 </p>
 
@@ -270,7 +270,7 @@ Git, GitHub, GitLab, Docker, Kubernetes, Ansible, Terraform, Pulumi, GitLab, Jen
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/8/82/Circleci-icon-logo.svg" alt="Circle-CI" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Circleci-icon-logo.svg" alt="Circle-CI" width="40" height="40" />
   </a>
   <a href="https://wandb.ai/" target="_blank" rel="noreferrer">
     <img src="https://assets.website-files.com/5ac6b7f2924c656f2b13a88c/61383ce48306e28cb95aa837_W%26B%20Logo%20Assets.png" alt="Weights-and-Biases" width="40" height="40" />

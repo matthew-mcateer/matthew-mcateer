@@ -358,6 +358,15 @@ HuggingFace, OpenAI, Anthropic, Cohere, Algolia, AI21, GraphQL, Airtable, Zapier
   </a>
 </p>
 
+<div>
+  <h2 align="left"> Statistics </h2>
+    <div>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=matthew-mcateer&card_width=345&show_icons=true&title_color=fff&icon_color=79ff97&bg_color=151515&text_color=fff&locale=en&custom_title=matthew-mcateer%20GitHub%20Statistics&hide_rank=true" alt="matthew-mcateer" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=matthew-mcateer&theme=dark&mode=weekly" alt="matthew-mcateer" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-mcateer&custom_title=Tech%20Stack%20Used&bg_color=151515&title_color=ffffff&text_color=ffffff&card_width=850&langs_count=8" alt="matthew-mcateer" />
+    </div>
+</div>
+
 
 <!--
 **matthew-mcateer/matthew-mcateer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

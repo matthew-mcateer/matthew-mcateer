@@ -92,25 +92,25 @@ Python, JavaScript/Node, C++, Golang, Julia, R, Solidity
 PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, Typescript, React, Gatsby, Next.js, React Native, Astro, Tailwind CSS, OpenCV, Robotic Operating System (ROS).
 
 <p>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://github.com/google/jax" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo.svg" alt="JAX" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://scikit-learn.org/stable/index.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="Scikit-Learn" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://python.langchain.com/docs/get_started/introduction.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="Langchain" width="40" height="40" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -119,28 +119,28 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="Gatsby" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://astro.build/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png" alt="Astro" width="40" height="40" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="Robotic Operating System (ROS)" width="40" height="40" />
   </a>
 </p>
@@ -193,7 +193,7 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
 **Microsoft Azure**
 
 <p>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303372/azure-1-logo.svg" alt="Microsoft Azure" width="40" height="40" />
   </a>
 </p>
@@ -209,7 +209,7 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
 **Lambda Cloud**
 
 <p>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://lambdalabs.com/service/gpu-cloud" target="_blank" rel="noreferrer">
     <img src="https://qwilr.com/wp-content/uploads/2021/02/lambda-logo-2-1-768x768.jpg" alt="Lambda Cloud" width="40" height="40" />
   </a>
 </p>
@@ -245,10 +245,10 @@ Git, GitHub, GitLab, Docker, Kubernetes, Ansible, Terraform, Pulumi, GitLab, Jen
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -257,19 +257,19 @@ Git, GitHub, GitLab, Docker, Kubernetes, Ansible, Terraform, Pulumi, GitLab, Jen
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" />
   </a>
   <a href="https://www.pulumi.com/" target="_blank" rel="noreferrer">
     <img src="https://www.pulumi.com/logos/brand/logo-on-white.svg" alt="Pulumi" width="60" height="30" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://circleci.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Circleci-icon-logo.svg" alt="Circle-CI" width="40" height="40" />
   </a>
   <a href="https://wandb.ai/" target="_blank" rel="noreferrer">
@@ -291,31 +291,31 @@ MongoDB, Cassandra, MySQL, FaunaDB, Neo4j, Apache Kafka, Apache Spark, Elasticse
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://fauna.com/" target="_blank" rel="noreferrer">
     <img src="https://bignerdranch.com/wp-content/uploads/2020/09/faunadblogo-square-1200x1200.png" alt="FaunaDB" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="Apache Spark" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png" alt="Elasticsearch" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://logowik.com/content/uploads/images/hadoop7135.jpg" alt="Hadoop" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
     <img src="https://pbs.twimg.com/profile_images/1676450951874453505/y5_T5OWH_400x400.png" alt="Pinecone" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://weaviate.io/" target="_blank" rel="noreferrer">
     <img src="https://dbdb.io/media/logos/weaviate.png" alt="Weaviate" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
     <img src="https://docs.trychroma.com/img/chroma.png" alt="Chroma" width="40" height="40" />
   </a>
 </p>
@@ -325,31 +325,31 @@ MongoDB, Cassandra, MySQL, FaunaDB, Neo4j, Apache Kafka, Apache Spark, Elasticse
 HuggingFace, OpenAI, Anthropic, Cohere, Algolia, AI21, GraphQL, Airtable, Zapier, LatchBio, Godot, Supabase, Firebase, Figma
 
 <p align="left">
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="HuggingFace" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://openai.com/" target="_blank" rel="noreferrer">
     <img src="https://logosandtypes.com/wp-content/uploads/2022/07/openai.svg" alt="OpenAI" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer">
     <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/jkfgwrdiiofil1gzivih" alt="Anthropic" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://cohere.com/" target="_blank" rel="noreferrer">
     <img src="https://logos-world.net/wp-content/uploads/2023/05/Cohere-Logo.png" alt="Cohere" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.algolia.com/" target="_blank" rel="noreferrer">
     <img src="https://logosandtypes.com/wp-content/uploads/2020/07/algolia.svg" alt="Algolia" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://docs.ai21.com/" target="_blank" rel="noreferrer">
     <img src="https://www.comeet.co/pub/ai21/E6.001/logo?size=medium&last-modified=1650378146" alt="AI21" width="40" height="40" />
   </a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.airtable.com/" target="_blank" rel="noreferrer">
     <img src="https://www.bbb.org/profileimages/17382874-098f-4e30-9759-1ac65db6c525.png" alt="Airtable" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://zapier.com/" target="_blank" rel="noreferrer">
     <img src="https://clipground.com/images/zapier-logo-3.png" alt="Zapier" width="40" height="40" />
   </a>
   <a href="https://latch.bio/" target="_blank" rel="noreferrer">

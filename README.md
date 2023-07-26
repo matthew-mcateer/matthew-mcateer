@@ -277,7 +277,7 @@ Git, GitHub, GitLab, Docker, Kubernetes, Ansible, Terraform, Pulumi, GitLab, Jen
   </a>
 </p>
 
-### Databses, Data Engineering
+### Databases, Data Engineering
 
 MongoDB, Cassandra, MySQL, FaunaDB, Neo4j, Apache Kafka, Apache Spark, Elasticsearch, Hadoop, Vector Databases (Pinecone, Weaviate, Chroma)
 
@@ -292,31 +292,31 @@ MongoDB, Cassandra, MySQL, FaunaDB, Neo4j, Apache Kafka, Apache Spark, Elasticse
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="FaunaDB" width="40" height="40" />
+    <img src="https://bignerdranch.com/wp-content/uploads/2020/09/faunadblogo-square-1200x1200.png" alt="FaunaDB" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Neo4j" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Apache Spark" width="40" height="40" />
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="Apache Spark" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Elasticsearch" width="40" height="40" />
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png" alt="Elasticsearch" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Hadoop" width="40" height="40" />
+    <img src="https://logowik.com/content/uploads/images/hadoop7135.jpg" alt="Hadoop" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Pinecone" width="40" height="40" />
+    <img src="https://pbs.twimg.com/profile_images/1676450951874453505/y5_T5OWH_400x400.png" alt="Pinecone" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Weaviate" width="40" height="40" />
+    <img src="https://dbdb.io/media/logos/weaviate.png" alt="Weaviate" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Chroma" width="40" height="40" />
+    <img src="https://docs.trychroma.com/img/chroma.png" alt="Chroma" width="40" height="40" />
   </a>
 </p>
 

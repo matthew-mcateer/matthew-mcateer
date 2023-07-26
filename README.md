@@ -326,34 +326,34 @@ HuggingFace, OpenAI, Anthropic, Cohere, Algolia, AI21, GraphQL, Airtable, Zapier
 
 <p align="left">
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="HuggingFace" width="40" height="40" />
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="HuggingFace" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="OpenAI" width="40" height="40" />
+    <img src="https://logosandtypes.com/wp-content/uploads/2022/07/openai.svg" alt="OpenAI" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Anthropic" width="40" height="40" />
+    <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/jkfgwrdiiofil1gzivih" alt="Anthropic" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Cohere" width="40" height="40" />
+    <img src="https://logos-world.net/wp-content/uploads/2023/05/Cohere-Logo.png" alt="Cohere" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Algolia" width="40" height="40" />
+    <img src="https://logosandtypes.com/wp-content/uploads/2020/07/algolia.svg" alt="Algolia" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="AI21" width="40" height="40" />
+    <img src="https://www.comeet.co/pub/ai21/E6.001/logo?size=medium&last-modified=1650378146" alt="AI21" width="40" height="40" />
   </a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Airtable" width="40" height="40" />
+    <img src="https://www.bbb.org/profileimages/17382874-098f-4e30-9759-1ac65db6c525.png" alt="Airtable" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Zapier" width="40" height="40" />
+    <img src="https://clipground.com/images/zapier-logo-3.png" alt="Zapier" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="LatchBio" width="40" height="40" />
+    <img src="https://www.citybiz.co/wp-content/uploads/2022/06/LatchBio.jpeg" alt="LatchBio" width="40" height="40" />
   </a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/godot/godot-original.svg" alt="godot" width="40" height="40" />
@@ -361,8 +361,8 @@ HuggingFace, OpenAI, Anthropic, Cohere, Algolia, AI21, GraphQL, Airtable, Zapier
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="supabase" width="40" height="40" />
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.saashub.com/images/app/service_logos/148/g5z36irg75q9/large.png?1590626437" alt="supabase" width="40" height="40" />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />

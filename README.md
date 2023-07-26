@@ -88,10 +88,10 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
 
 <p>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="PyTorch" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Tensorflow" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
     <img src="" alt="JAX" width="40" height="40" />
@@ -118,10 +118,10 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Gatsby" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="Gatsby" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="Next.js" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
@@ -224,7 +224,7 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" />
   </a>
   <a href="https://support.apple.com/macos" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/macos/macos-original.svg" alt="macos" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="40" height="40" />
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
@@ -358,14 +358,6 @@ HuggingFace, OpenAI, Anthropic, Cohere, Algolia, AI21, GraphQL, Airtable, Zapier
   </a>
 </p>
 
-<div>
-  <h2 align="left"> Statistics </h2>
-    <div>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=matthew-mcateer&card_width=345&show_icons=true&title_color=fff&icon_color=79ff97&bg_color=151515&text_color=fff&locale=en&custom_title=matthew-mcateer%20GitHub%20Statistics&hide_rank=true" alt="matthew-mcateer" />
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=matthew-mcateer&theme=dark&mode=weekly" alt="matthew-mcateer" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-mcateer&custom_title=Tech%20Stack%20Used&bg_color=151515&title_color=ffffff&text_color=ffffff&card_width=850&langs_count=8" alt="matthew-mcateer" />
-    </div>
-</div>
 
 
 <!--

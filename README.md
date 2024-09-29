@@ -150,7 +150,7 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
 
 ### Platforms
 
-**Amazon Web Services** (EC2, Sagemaker, Bedrock, Lambda, DynamoDB, SQS, Kinesis, S3, API Gateway, ECS, Fargate)
+**Amazon Web Services** (EC2, Sagemaker, Lambda, DynamoDB, SQS, Kinesis, S3, API Gateway, ECS, Fargate)
 <p>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
@@ -160,9 +160,6 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
   </a>
   <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer">
     <img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2018/05/eyecatch_sagemaker.png" alt="Sagemaker" width="40" height="40" />
-  </a>
-  <a href="https://aws.amazon.com/bedrock/titan/" target="_blank" rel="noreferrer">
-    <img src="https://devnote.tech/wp-content/uploads/2022/07/sagemaker-icon.png" alt="bedrock" width="40" height="40" />
   </a>
   <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1920px-Amazon_Lambda_architecture_logo.svg.png" alt="Lambda" width="40" height="40" />
@@ -200,7 +197,7 @@ PyTorch, Tensorflow, JAX, Scikit-Learn, Numpy, Pandas, Langchain, LangchainJS, T
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
   </a>
   <a href="https://lambdalabs.com/service/gpu-cloud" target="_blank" rel="noreferrer">
-    <img src="https://qwilr.com/wp-content/uploads/2021/02/lambda-logo-2-1-768x768.jpg" alt="Lambda Cloud" width="40" height="40" />
+    <img src="https://qwilr.com/wp-content/uploads/2021/02/lambda-logo-2-1-768x768.jpg)" alt="Lambda Cloud" width="40" height="40" />
   </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
@@ -307,7 +304,7 @@ MongoDB, Cassandra, MySQL, FaunaDB, Neo4j, Apache Kafka, Apache Spark, Elasticse
 
 ### Other Tools
 
-HuggingFace, OpenAI, Anthropic, Cohere, Algolia, AI21, GraphQL, Airtable, Zapier, LatchBio, Godot, Supabase, Firebase, Figma
+HuggingFace, OpenAI, Anthropic, Cohere, AI21, GraphQL, Airtable, Zapier, LatchBio, Godot, Supabase, Firebase, Figma
 
 <p align="left">
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
@@ -321,9 +318,6 @@ HuggingFace, OpenAI, Anthropic, Cohere, Algolia, AI21, GraphQL, Airtable, Zapier
   </a>
   <a href="https://cohere.com/" target="_blank" rel="noreferrer">
     <img src="https://logos-world.net/wp-content/uploads/2023/05/Cohere-Logo.png" alt="Cohere" width="40" height="40" />
-  </a>
-  <a href="https://www.algolia.com/" target="_blank" rel="noreferrer">
-    <img src="https://logosandtypes.com/wp-content/uploads/2020/07/algolia.svg" alt="Algolia" width="40" height="40" />
   </a>
   <a href="https://docs.ai21.com/" target="_blank" rel="noreferrer">
     <img src="https://www.comeet.co/pub/ai21/E6.001/logo?size=medium&last-modified=1650378146" alt="AI21" width="40" height="40" />
